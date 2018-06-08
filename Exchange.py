@@ -1,7 +1,7 @@
 import datetime
 import random
 #代码实现：李康、肖扬；站点实现：李康、李向阳、贾乃轩
-#大家可以提交pull request
+#欢迎一起来维护，大家可以提交pull request
 
 # order应该具有流水号，交易者ID，买入或卖出， 价格， 数量 ，时间， 股票代码这些参数
 class Order:
